@@ -1,0 +1,24 @@
+{
+"name": "Mis Finanzas Personales",
+"short_name": "Finanzas",
+"description": "Una aplicación sencilla para gestionar tus finanzas personales.",
+"start_url": "./finanzas_app.html",
+"display": "standalone",
+"background_color": "#111827",
+"theme_color": "#4f46e5",
+"orientation": "portrait-primary",
+"icons": [
+{
+"src": "https://www.google.com/search?q=https://placehold.co/192x192/4f46e5/ffffff%3Ftext%3DFinanzas",
+"type": "image/png",
+"sizes": "192x192",
+"purpose": "any maskable"
+},
+{
+"src": "https://www.google.com/search?q=https://placehold.co/512x512/4f46e5/ffffff%3Ftext%3DFinanzas",
+"type": "image/png",
+"sizes": "512x512",
+"purpose": "any maskable"
+}
+]
+}
