@@ -2,7 +2,7 @@
 "name": "Mis Finanzas Personales",
 "short_name": "Finanzas",
 "description": "Una aplicación sencilla para gestionar tus finanzas personales.",
-"start_url": "./finanzas_app.html",
+"start_url": "./index.html",
 "display": "standalone",
 "background_color": "#111827",
 "theme_color": "#4f46e5",
@@ -21,4 +21,5 @@
 "purpose": "any maskable"
 }
 ]
+
 }
