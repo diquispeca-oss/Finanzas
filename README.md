@@ -1,2 +1,0 @@
-# Finanzas
-App de Finanzas
